@@ -13,10 +13,13 @@ project:
     - file: README.md
     - title: Lectures
       children:
+        - file: src/setup.ipynb
         - file: src/Day1.ipynb
         - file: src/Day2.ipynb
         - file: src/Day3.ipynb
         - file: src/exercises1.ipynb
+        - file: src/exercises2_1.ipynb
+        - file: src/exercises2_2.ipynb
     
 site:
   template: book-theme
